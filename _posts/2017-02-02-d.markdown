@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "yeonjae portfolio"
+image: /images/d.png
+---
+![d image](/images/d.png)

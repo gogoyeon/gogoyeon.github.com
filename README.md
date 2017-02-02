@@ -1,2 +1,1 @@
-# gogoyeon.github.com
-my page
+## Welcome to Yeonjae Cho Pages
