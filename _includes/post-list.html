@@ -1,0 +1,9 @@
+<div class="masonry">
+	{% for post in site.posts %}
+	 <div class="item">
+	    <a href="{{ post.url | relative_url }}">
+	      <img src="{{ post.image | escape }}">
+	    </a>     
+	 </div>
+	{% endfor %}
+</div>
