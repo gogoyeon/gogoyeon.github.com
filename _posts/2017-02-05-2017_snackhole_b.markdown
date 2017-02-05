@@ -1,6 +1,0 @@
----
-layout: post
-title:  “Brand Identity_snack hole / client : MADSquare”
-image: /images/2017_snackhole_b.png
----
-![2017_snackhole_b.png](/images/2017_snackhole_b.png)
