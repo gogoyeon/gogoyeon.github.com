@@ -1,6 +1,0 @@
----
-layout: post
-title:  "test"
-image: /images/5.png
----
-![1.png](/images/5.png)
