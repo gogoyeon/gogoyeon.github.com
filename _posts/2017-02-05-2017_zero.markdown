@@ -1,6 +1,0 @@
----
-layout: post
-title:  “personal work for poster”
-image: /images/2017_zero.png
----
-![2017_zero.png](/images/2017_zero.png)
