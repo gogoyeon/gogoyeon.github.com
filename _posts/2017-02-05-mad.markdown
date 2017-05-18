@@ -1,6 +1,0 @@
----
-layout: post
-title:  “CI-madsquare”
-image: /images/2017_mad.png
----
-![2017_mad.png](/images/2017_mad.png)
