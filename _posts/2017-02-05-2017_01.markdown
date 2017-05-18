@@ -1,9 +1,0 @@
----
-layout: post
-title:  “2017 Happy New Year! poster”
-image: /images/2017_01.png
----
-![2017_01.png](/images/2017_01.png)
-![2017_01.png](/images/2017_02.png)
-
-A railway passing through South Jeolla Province and the one connecting Suseo and Pyeongtaek will open between 2014 and 2017.
