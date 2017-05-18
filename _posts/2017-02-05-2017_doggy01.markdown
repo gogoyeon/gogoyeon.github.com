@@ -1,6 +1,0 @@
----
-layout: post
-title:  “Do you really love me”
-image: /images/2017_doggy01.png
----
-![2017_doggy01.png](/images/2017_doggy01.png)
